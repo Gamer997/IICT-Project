@@ -1,4 +1,4 @@
-![image](https://github.com/Gamer997/Tourism-Website-/assets/98121819/2e7b589c-1467-446d-95be-254b3c90f57a)# Tourism Website
+# Tourism Website
 
 Welcome to our Tourism Website! Explore the beauty and history of different provinces with our comprehensive travel guide.
 
